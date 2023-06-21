@@ -1,2 +1,5 @@
-# Customer-Segmentation
-Despite its simplicity, the K-means is vastly used for clustering in many data science applications, especially useful if you need to quickly discover insights from unlabeled data. Here, I used k-Means for customer segmentation.
+## Customer Segmentation with K-Means
+There is a real-life customer dataset, and I need to apply customer segmentation on this historical data.
+Customer segmentation is the practice of partitioning a customer base into groups of individuals that have similar characteristics. It is a significant strategy as a business can target these specific groups of customers and effectively allocate marketing resources. For example, one group might contain customers who are high-profit and low-risk, that is, more likely to purchase products, or subscribe for a service. A business task is to retain those customers. Another group might include customers from non-profit organizations and so on.
+
+There are many models for clustering out there. In this project, I will be using the model that is considered one of the simplest models amongst them. Despite its simplicity, the K-means clustering is vastly used for clustering in many data science applications, it is especially useful if you need to quickly discover insights from unlabeled data.
